@@ -8,5 +8,3 @@ This simple script rapdily calculates the heat transfer between two energy-activ
 ![Blaocked surfaces (in red)](/Images/Figure_1.png){:class="img-responsive"}
 - **Step 5** A simple RC model incorporates the form factor and calculates the radiative fluxes between the two bodies and the convective fluxes between the bodies and the surrounding medium (air)
 ![Sample output of the RC model](/Images/RCresults.png){:class="img-responsive"}
-
-You can access the source script .pynb here
